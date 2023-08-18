@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/selenium-java-3.141.59 (1)/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/selenium-java-3.141.59 (1)/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/selenium-java-3.141.59 (1)/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/selenium-java-3.141.59 (1)/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/selenium-java-3.141.59 (1)/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/selenium-java-3.141.59 (1)/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/selenium-java-3.141.59 (1)/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/jar_files/ashot-1.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/jar_files/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/jar_files/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/jar_files/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/jar_files/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/jar_files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/jar_files/gson-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/jar_files/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/jar_files/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/jar_files/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/jar_files/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/jar_files/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/jar_files/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/jar_files/selenium-api-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/jar_files/selenium-remote-driver-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/chromedriverjar_files/bcpkix-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/chromedriverjar_files/bcprov-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/chromedriverjar_files/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/chromedriverjar_files/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/chromedriverjar_files/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/chromedriverjar_files/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/chromedriverjar_files/dec-0.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/chromedriverjar_files/docker-java-3.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/chromedriverjar_files/docker-java-api-3.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/chromedriverjar_files/docker-java-core-3.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/chromedriverjar_files/docker-java-transport-3.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/chromedriverjar_files/docker-java-transport-httpclient5-3.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/chromedriverjar_files/gson-2.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/chromedriverjar_files/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/chromedriverjar_files/httpclient5-5.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/chromedriverjar_files/httpcore5-5.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/chromedriverjar_files/httpcore5-h2-5.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/chromedriverjar_files/jackson-annotations-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/chromedriverjar_files/jackson-core-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/chromedriverjar_files/jackson-databind-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/chromedriverjar_files/jcl-over-slf4j-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/chromedriverjar_files/jna-5.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/chromedriverjar_files/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dvyas/Desktop/Selenium/chromedriverjar_files/webdrivermanager-5.2.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
