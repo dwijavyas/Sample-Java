@@ -18,7 +18,7 @@ public class UBChrome {
 		WebDriver driver = new ChromeDriver();
 		
 		/* Navigate to the website URL and print its Title in the output */
-		driver.get("https://uatbilling.boycecloud.com/BUBWeb_New/index.html#/auth/login");
+		driver.get("***");
 		Thread.sleep(5000);
 		System.out.println(driver.getTitle());
 
@@ -26,7 +26,7 @@ public class UBChrome {
 		driver.manage().window().maximize();
 
 		/* Enter the credentials on the Main UB Login Page */
-		driver.findElement(By.id("email")).sendKeys("sa@user.com");
+		driver.findElement(By.id("email")).sendKeys("***");
 		driver.findElement(By.xpath("//body/app-root[1]/app-auth-layout[1]/div[1]/app-login[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/form[1]/fieldset[1]/section[2]/label[2]/input[1]")).sendKeys("123");
 		Thread.sleep(5000);
 		driver.findElement(By.xpath("//button[contains(text(),'Sign in')]")).click();
